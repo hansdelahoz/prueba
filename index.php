@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>no es malo</title>
+    <title>nuvo titulo</title>
 </head>
 <body>
-    este index esta modificado en mi ramaxx
+    lo modifique desde git
 </body>
 </html>
