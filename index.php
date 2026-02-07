@@ -6,6 +6,6 @@
     <title>no es malo</title>
 </head>
 <body>
-    este index esta modificado en mi rama
+    este index esta modificado en mi rama, que loco pero bueno
 </body>
 </html>
