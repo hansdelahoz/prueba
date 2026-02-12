@@ -6,6 +6,6 @@
     <title>no es malo</title>
 </head>
 <body>
-    este index esta modificado en mi ramaxx
+    buen cambio
 </body>
 </html>
